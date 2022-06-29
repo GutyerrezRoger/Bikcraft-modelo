@@ -51,6 +51,8 @@ p {
 }
 
 .header-menu a {
+  font-family: "Poppins";
+  font-weight: 400;
   padding: 16px 0px;
   display: inline-block;
   color: #fff;
@@ -129,6 +131,8 @@ p {
 }
 .introducao h1 {
   margin-bottom: 32px;
+  font-family: "Poppins";
+  font-weight: 600;
   font-size: 64px;
   line-height: 1.125;
 }
@@ -142,6 +146,8 @@ p {
   font-size: 24px;
   line-height: 1.5;
   color: #b2b2b2;
+  font-family: "Roboto";
+  font-weight: 400;
 }
 
 .introducao a {
@@ -154,7 +160,8 @@ p {
   color: #332200;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: 'Poppins';
+  font-weight: 600;
 }
 
 .introducao a:hover {
