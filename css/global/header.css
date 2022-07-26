@@ -9,10 +9,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  box-sizing: border-box;
-  padding: 20px;
-  max-width: 1200px;
-  margin: auto;
+  padding-inline: 20px;
+
 }
 .header-menu {
   display: flex;
@@ -21,11 +19,8 @@
 }
 
 .header-menu a {
-  font-family: "Poppins";
-  font-weight: 400;
   padding: 16px 0px;
   display: inline-block;
-  font-size: 18px;
   position: relative;
 }
 
